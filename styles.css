@@ -1,0 +1,17 @@
+body {
+background-color:black;
+}
+
+.game {
+  color:maroon;
+  font-family:georgia;
+  text-align:center;
+}
+
+.button {
+  color:red;
+  font-family:calibri;
+  text-align:center;
+  background-color:navy;
+
+}
