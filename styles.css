@@ -1,4 +1,5 @@
 body {
+background-image:url("swords.jpg");
 background-color:black;
 }
 
@@ -11,6 +12,7 @@ background-color:black;
 .button {
   color:red;
   font-family:calibri;
-  background-color:navy;
+  text-align:center;
+  background-color:silver;
 
 }
