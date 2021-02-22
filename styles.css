@@ -1,7 +1,7 @@
 body {
-background-image:url("swords.jpg");
-background-color:black;
-font-color:white;
+  color:white;
+  background-image:url("swords.jpg");
+  background-color:black;
 }
 
 .game {
